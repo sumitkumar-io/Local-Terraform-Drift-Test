@@ -1,0 +1,5 @@
+{
+  "local_file.example": {
+    "content": "Hello Terraform"
+  }
+}
